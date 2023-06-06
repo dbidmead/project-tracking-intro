@@ -190,16 +190,6 @@ p {
 }
 
 @media screen and (max-width: 550px) {
-  /* .background {
-        position: absolute;
-        right: 0;
-        top: 0;
-        height: 50%;
-        width: 50%;
-        background-color: var(--pale);
-        border-radius: 0 0 0 5rem;
-        z-index: -1;
-      } */
   :root {
     --x-padding: 2rem;
   }
